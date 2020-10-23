@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "javascript.format.semicolons": "insert",
+    "typescript.format.semicolons": "insert",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
